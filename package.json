@@ -1,0 +1,21 @@
+{
+  "name": "fork-ts-plugin-webpack-1-x",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "webpack-dev-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fork-ts-checker-webpack-plugin": "^0.4.2",
+    "happypack": "^3.0.0",
+    "ts-loader": "^3.5.0",
+    "typescript": "^2.8.3",
+    "webpack": "^1.13.3",
+    "webpack-cli": "^3.0.1",
+    "webpack-dev-server": "^1.16.3"
+  }
+}
